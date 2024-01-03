@@ -1,0 +1,21 @@
+h1{
+background-color: aqua;
+border: 10px solid salmon;
+border-radius: 5px;
+padding-top: 10px;
+}
+
+p{
+    color: blueviolet;
+    text-decoration-style: dashed;
+}
+
+ol{
+    background-color: cadetblue;
+    border: 10px dotted rosybrown;
+    border-radius: 10px;
+}
+img{
+    width: 400px;
+    height: 600px;
+}
